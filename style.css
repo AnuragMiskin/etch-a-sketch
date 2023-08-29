@@ -1,10 +1,15 @@
 .boxcontainer{
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .box{
-    border: 5px solid black;
+    border: 1px solid black;
     height: 20px;
     width: 20px;
+}
+.active{
+    background-color: aquamarine;
 }
 
 
