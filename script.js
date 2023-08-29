@@ -9,6 +9,10 @@ container.setAttribute('class','boxcontainer');
     document.body.appendChild(container);
 }
 
+/*
+-need to add hover eventlistners for each box 
+-and changing i and j from 16 to taking user input for square grid <100
+
 
 
 
