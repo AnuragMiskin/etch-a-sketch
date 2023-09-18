@@ -1,17 +1,16 @@
+.section{
+    display: flex;
+}
 .boxcontainer{
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .box{
-    border: 1px solid black;
     height: 20px;
     width: 20px;
+    border: 1px solid black;
 }
-.active{
-    background-color: aquamarine;
-}
-
 
 
 
